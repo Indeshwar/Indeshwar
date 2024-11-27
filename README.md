@@ -2,7 +2,7 @@
     <img src="https://cdn.prod.website-files.com/65a790f0493b6806e60d6e21/660e919460c83c1ceb123a53_hire-java-developer.png"/>
 </headmaster>
 <h1 align="center">Hi 👋, I'm Indeshwar Chadhary</h1>
-<h3 align="center">A passionate java backend developer</h3>
+<h3 align="center">A passionate java developer</h3>
 <img align="right" width="400" src = "https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indeshwar&label=Profile%20views&color=0e75b6&style=flat" alt="indeshwar" /> </p>
 
